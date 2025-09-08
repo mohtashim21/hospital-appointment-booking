@@ -1,0 +1,9 @@
+body {
+    background-image: url("./assets/bg-image-2.jpg"); 
+    background-repeat: repeat;           
+    background-size: cover;                
+    background-position: center;  
+    opacity: 1;          
+    height: 100vh;                          
+    margin: 0;                             
+}
