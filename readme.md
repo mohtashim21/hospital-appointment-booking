@@ -30,7 +30,7 @@ Users can book appointments online, and hospital admins can manage them via the 
 
 ### 1. Clone Repository
 
-git clone https://github.com/your-username/hospital-appointment-booking.git
+git clone https://github.com/mohtashim21/hospital-appointment-booking
 cd hospital-appointment-booking
 
 2. Install Dependencies
